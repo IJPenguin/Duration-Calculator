@@ -3,7 +3,7 @@ import cv2
 from collections import deque
 
 # Paste the path to the directory containing the video files between the quotes
-dir_path = r"C:\Users\ishan\Downloads"
+dir_path = r"path\to\directory"
 
 dir_path = dir_path.replace('\\', '/')
 
